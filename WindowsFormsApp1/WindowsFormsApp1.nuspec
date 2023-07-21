@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>WindowsFormsApp1</title>
+		<authors>aaa</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<!--<license type="expression">MIT</license>-->
+		<!-- <icon>icon.png</icon> -->
+		<description>bbb</description>
+		<releaseNotes></releaseNotes>
+		<copyright>$copyright$</copyright>
+		<tags></tags>
+	</metadata>
+</package>

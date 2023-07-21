@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>ClassLibrary</title>
+		<authors>bbb</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<!--<license type="expression">MIT</license>-->
+		<!-- <icon>icon.png</icon> -->
+		<description>aaa</description>
+		<releaseNotes></releaseNotes>
+		<copyright>$copyright$</copyright>
+		<tags></tags>
+	</metadata>
+</package>
